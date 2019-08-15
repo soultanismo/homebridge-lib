@@ -3,7 +3,7 @@
   "description": "Library for homebridge plugins",
   "author": "Erik Baauw",
   "license": "Apache-2.0",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "keywords": [
     "homekit",
     "homebridge"
@@ -21,7 +21,7 @@
   },
   "engines": {
     "homebridge": "^0.4.50",
-    "node": "^10.16.1"
+    "node": "^10.16.2"
   },
   "dependencies": {
     "bonjour-hap": "~3.5.4",
